@@ -6,6 +6,15 @@
 - 📫 How to reach me:
 - Phone: 404-398-2339  Email: Jhaboon21@gmail.com
 
+
+
+Favorite Games:
+- League of Legends
+- Teamfight Tactics
+- Destiny
+- Cult of the Lamb
+- Maplestory
+
 <!---
 Jhaboon21/Jhaboon21 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
